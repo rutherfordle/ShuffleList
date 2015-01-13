@@ -1,0 +1,8 @@
+Rutherford Le
+Rle
+
+Files: Shuffle.java, List.java, Makefile, README
+
+Description: Put input from file into a list. The list is fully able to be manipulated.
+Then the shuffle function calculates the permutations. Then prints out the 
+output.
